@@ -21,7 +21,7 @@
 
 
 # 1
-# Main memory is used for storing data temporarily shile it is being excuted by CPU 
+# Main memory is used for storing data temporarily while it is being executed by CPU
 # and loses all it's data when computer is turned off, while secondary storage is used 
 # to store data for a long periods of time even when the power is turned off.
 
@@ -31,17 +31,17 @@
 
 # 3
 # 128 characters can be represented by ASCII, and 1111111 is the character set that
-# adresses the limitation.
+# addresses the limitation.
 
 # 4
 # Statements are individual instructions written in high level language. 
 
 # 5
-# Mnemonics are short words used in assembly language to give instrucitons.
+# Mnemonics are short words used in assembly language to give instructions.
 
 # 6 
-# Compiler only excute the whole program after compiling it, while interpreter 
-# excutes the program line by line.
+# Compiler only execute the whole program after compiling it, while interpreter
+# executes the program line by line.
 
 # 7
 # System Software is a type of software that controls internal operations of a computer.

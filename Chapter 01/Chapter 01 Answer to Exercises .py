@@ -1,6 +1,6 @@
-# 1 Question is too easy and you should just follow the instructions to answer them.
+# 1 Question is too easy, and you should just follow the instructions to answer them.
 
-# 2 Question is too easy and you should just follow the instructions to answer them.
+# 2 Question is too easy, and you should just follow the instructions to answer them.
 
 # 3 
 # -> 14 = 8 + 4 + 2 = 2^3 + 2^2 + 2^1 = 0x2^7 + 0x2^6 + 0x2^5 + 0x2^4 + 1x2^3 + 1x2^2 + 1x2^1 + 0x2^0
@@ -29,12 +29,8 @@
 # 6
 # -> Guido Van Rossum is the creator of python. he is given the name BDFL which means Benevolent
 # Dictator For Life because it is a title given for a small number of open source software
-# development leaders who retain the final say in disputes or arguments within the commmunity.
-# -> Zen of python is a collection of 19 guiding principles used for writting computer programs
-# that influenced the desing of python programming lanuage.
-# -> Python3 was realsed in december 3 2008.
-#    Python2 was realsed in october 16 2000.
-
-
-
-
+# development leaders who retain the final say in disputes or arguments within the community.
+# -> Zen of python is a collection of 19 guiding principles used for writing computer programs
+# that influenced the design of python programming language.
+# -> Python3 was realised on december, 3 2008.
+#    Python2 was realised on october, 16 2000.

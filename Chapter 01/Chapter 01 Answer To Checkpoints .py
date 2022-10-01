@@ -1,4 +1,4 @@
-#------- >>> Answer to Checkpoints <<< ------- #
+#   ------- >>> Answer to Checkpoints <<< ------- #
 
 
 # 1 => Program is a set of instructions that a computer follows to perform a task.
@@ -30,7 +30,7 @@
 # 14 => Binary digits numbering system.
 
 # 15 => It is used to represent english letters, various punctuations, numeric codes,
-# marks, and other charaters.
+# marks, and other characters.
 
 # 16 => Unicode is an extensive encoding scheme large enough to represent the 
 # character of many languages.
@@ -40,23 +40,23 @@
 
 # 18 => CPU only understands instructions that are written in machine language.
 
-# 19 => Program has to be copied into RAM before it is excuted by the CPU.
+# 19 => Program has to be copied into RAM before it is executed by the CPU.
 
 # 20 => Fetch --> Decode --> Execute cycle.
 
-# 21 => Assembly languages use short words(mnemonics) for giving instructions that 
-# that are changed to machine language by the assmebler to excute a program.
+# 21 => Assembly languages use short words(mnemonics) for giving instructions
+# that are changed to machine language by the assembler to execute a program.
 
 # 22 => High Level Language.
 
-# 23 => Syntax is a set of rules to be followed when writting a program.
+# 23 => Syntax is a set of rules to be followed when writing a program.
 
 # 24 => Compiler is a program that translates high level language into separate 
 # machine language.
 
-# 25 => Interpreter is a program that both translates and excutes the instructions
+# 25 => Interpreter is a program that both translates and executes the instructions
 #  in a high level language into machine langauge.
 
 # 26 => Syntax 
 
-### TIP: Source code is statements programmer writes in a high level langauge.
+#  TIP: Source code is statements programmer writes in a high level langauge.
