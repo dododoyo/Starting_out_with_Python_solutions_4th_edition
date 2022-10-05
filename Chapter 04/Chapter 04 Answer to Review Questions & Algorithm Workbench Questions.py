@@ -1,3 +1,53 @@
+# ------- >>> Answer to multiple choice questions <<< ------- #
+
+# 1,B   6,B   11,D
+# 2,D   7,D   12,A
+# 3,D   8,A
+# 4,A   9,B
+# 5,C  10,C
+
+
+# ------- >>> Answer to True or False questions <<< ------- #
+
+# 1,False   6,False
+# 2,True    7,False
+# 3,True
+# 4,False
+# 5,True
+
+
+# ------- >>> Answer to Short answer questions < ------- #
+
+# 1
+# Condition-controlled loop is a loop that iterates only if the condition of the loop
+# is met.( is True)
+
+# 2
+# Count-controlled loop is a loop that iterates only for the specified amount of items.
+
+# 3
+# An infinite loop is a loop that terminates only if the program is stopped, and goes on forever if not.
+
+# 4
+# An accumulator can be viewed as a cart for the user as he goes on in a super-market. He adds the items in
+# the cart, it is the same case with an accumulator as the loop iterates it adds the iterated item to the
+# accumulator and at the end of the iteration the accumulator will have the total value.
+
+# 5
+# 4 x 5 = 20
+
+# 6
+# Because not to confuse its value with value to be operated by the loop sentinel must be carefully selected.
+
+# 7
+# It means bad data entered as input will result bad output computer doesn't have the idea of bad or good data
+# it will execute on whatever is entered.
+
+# 8
+# An input validation process is a process used to get rid of bad data by "trapping" the user inside a while loop
+# until the user enters the proper data.
+
+
 # ------- >>> Answer to Algorithm Workbench Questions < ------- #
 
 # 1
