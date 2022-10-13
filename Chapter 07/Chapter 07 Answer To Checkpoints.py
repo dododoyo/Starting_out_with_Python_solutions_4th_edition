@@ -74,7 +74,7 @@ print(my_list)
 numbers = [1, 2, 3, 4, 5]
 my_list = numbers[1:]
 print(my_list)
-# Will display the following output
+# Will display the following output.
 [2, 3, 4, 5]
 
 # 11
@@ -106,8 +106,8 @@ else:
     print("Jasmine's family: ")
     print(names)
 # Will display the following output
-Jasmine's family:
-['Jim', 'Jill', 'John', 'Jasmine']
+#Jasmine's family:
+#['Jim', 'Jill', 'John', 'Jasmine']
 
 # 15
 # The difference between list's remove method and del method

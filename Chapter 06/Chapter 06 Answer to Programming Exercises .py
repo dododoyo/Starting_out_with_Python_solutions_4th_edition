@@ -1,3 +1,4 @@
+#   ------- >>> Answer to Programming Exercises <<< ------- #
 # 1
 numbers = open('numbers.txt', 'r')
 for line in numbers:
@@ -218,7 +219,7 @@ def average_(month, month_no):
         line2 = int(line2)
         ano_cntr += line2
     answer2 = str(ano_cntr/month_no)
-    print('Average steps of month ' + month + ' is ' + answer2)
+    print('Average steps of month ' + month + ' is ' + answer2+'.')
 
 
 average_('January', 31)

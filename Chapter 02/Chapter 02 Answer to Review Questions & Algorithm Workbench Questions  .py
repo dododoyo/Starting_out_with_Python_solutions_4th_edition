@@ -9,11 +9,11 @@
 
 # ------- >>> Answer to True or False questions <<< ------- #
 
-# 1,F  
-# 2,T   
-# 3,F   
-# 4,T   
-# 5,F
+# 1,False 
+# 2,True
+# 3,False
+# 4,True   
+# 5,False
 
 # ------- >>> Answer to Short Answer Questions < ------- #
 

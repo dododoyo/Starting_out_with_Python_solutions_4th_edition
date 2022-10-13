@@ -1,3 +1,4 @@
+#   ------- >>> Answer to Programming Exercises <<< ------- #
 # 1
 class Employee:
     def __init__(self, name, number):

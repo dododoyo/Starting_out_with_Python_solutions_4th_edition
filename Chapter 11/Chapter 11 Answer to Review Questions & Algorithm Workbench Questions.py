@@ -31,7 +31,7 @@
 
 # 1
 class Trout(Fish):
-# This is first line of the definition for a Trout subclass, having Fish as a superclass.
+# This is first line of the definition for a Trout subclass, having Fish as a superclass
 
 # 2
 class Art:

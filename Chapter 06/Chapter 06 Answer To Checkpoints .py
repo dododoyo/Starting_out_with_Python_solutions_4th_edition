@@ -72,7 +72,7 @@ tempo_loc.close()
 # In most cases it will force the program to halt.
 
 # 21
-# IOError occurs when a code tries to open a file that doesn't exist
+# IOError occurs when a code tries to open a file that doesn't exist. 
 
 # 22
 # ValueError occurs when user gives invalid  value to a function.

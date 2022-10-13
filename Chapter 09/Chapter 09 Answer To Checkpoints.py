@@ -14,7 +14,7 @@
 # 5
 stuff = {1 : 'aaa', 2 : 'bbb', 3 : 'ccc'}
 print(stuff[3])
-# The following code will display
+# The following code will display. 
 # ccc
 
 # 6

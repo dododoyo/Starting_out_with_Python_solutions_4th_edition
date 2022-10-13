@@ -14,7 +14,7 @@
 # private methods are methods that can be accessed by attributes that exist only with in the object.
 
 # 5
-# For the expression in line checkpoint 10.5 The blueprint represents the a class and the object
+# For the expression in line checkpoint 10.5 The blueprint represents the a class and the object. 
 # represents a house.
 
 # 6

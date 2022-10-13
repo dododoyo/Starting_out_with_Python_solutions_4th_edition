@@ -1,6 +1,5 @@
 #   ------- >>> Answer to Checkpoints <<< ------- #
 
-
 # 1 => Program is a set of instructions that a computer follows to perform a task.
 
 # 2 => Hardware is physical component which a computer is made from.

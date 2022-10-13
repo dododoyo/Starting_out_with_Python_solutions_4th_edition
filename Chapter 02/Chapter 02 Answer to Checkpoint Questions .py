@@ -1,4 +1,4 @@
-import turtle   # This line of code is for answers that use this module.
+import turtle   
 # 1
 # Programmer's customer can be person,group or organization that is asking the 
 # programmer to write a program for specific purpose.

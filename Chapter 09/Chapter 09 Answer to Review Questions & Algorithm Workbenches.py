@@ -52,7 +52,7 @@ months[2]
 # 7
 dct = {0:[1, 2, [3, 4], 5]}
 print(dct[0][2][1])
-# The above code will display 
+# The above code will display: 
 # 4
 
 # 8

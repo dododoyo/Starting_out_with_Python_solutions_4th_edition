@@ -74,7 +74,7 @@ print(biggest)
 accumulator = 0
 for i in list:
     accumulator += i
-# flowchart is hard to show here
+# flowchart is hard to show here.
 
 # 5
 def adding_machine(the_list):

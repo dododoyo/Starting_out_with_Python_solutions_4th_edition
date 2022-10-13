@@ -1,3 +1,4 @@
+#   ------- >>> Answer to Programming Exercises <<< ------- #
 # 1
 class Pet:
     def __init__(self, name, animal_type, age):

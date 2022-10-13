@@ -9,16 +9,14 @@
 
 # ------- >>> Answer to True or False questions <<< ------- #
 
-
-# 1,F   6,F
-# 2,T   7,T
-# 3,T   8,F
-# 4,F   9,F
-# 5,T   10,F
+# 1,False   6,False
+# 2,True    7,True
+# 3,True    8,False
+# 4,False   9,False
+# 5,True    10,False
 
 
 # ------- >>> Answer to Short answer questions < ------- #
-
 
 # 1
 # Main memory is used for storing data temporarily while it is being executed by CPU

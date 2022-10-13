@@ -130,7 +130,7 @@
 
 # 34
 import math
-# is the statement needed to use the maths module
+# this is the statement needed to use the maths module.
 
 # 35
 import math

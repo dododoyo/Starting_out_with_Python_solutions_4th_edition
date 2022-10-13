@@ -9,7 +9,7 @@ for i in name:
 # The first character in a string have an index 0.
 
 # 3
-# TIP- the index of the last character in python is length of string - 1
+# TIP- the index of the last character in python is length of string - 1. 
 
 # 4
 # An IndexError exception will occur.

@@ -37,7 +37,7 @@
 
 # 5
 # parameter variable have scope that works only inside the function.
-# same as local variables
+# same as local variables. 
 
 # 6
 # Out of the many reasons that global variable make debugging difficult,

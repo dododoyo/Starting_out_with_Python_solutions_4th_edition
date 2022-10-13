@@ -87,9 +87,9 @@ else:
 
 # 7
 if points < 9 and points > 51:
-    print('invalid points')
+    print('invalid points.')
 else:
-    print('valid points')
+    print('valid points.')
 # 8
 import turtle
 turtle_heading = turtle.heading()

@@ -116,7 +116,7 @@ if speed <=0 and speed >=200:
 
 # 25 
 # By using turtle.isvisible() function which means it's visible if 
-# function returns value of True,and value is False means turtle is not visible
+# function returns value of True,and value is False means turtle is not visible. 
 
 # 26 
 # You can determine turtle's pen color using turtle.pencolor() which returns 

@@ -32,5 +32,5 @@
 # development leaders who retain the final say in disputes or arguments within the community.
 # -> Zen of python is a collection of 19 guiding principles used for writing computer programs
 # that influenced the design of python programming language.
-# -> Python3 was realised on december, 3 2008.
-#    Python2 was realised on october, 16 2000.
+# -> Python3 was realised on december, 3 2008
+#    Python2 was realised on october, 16 2000

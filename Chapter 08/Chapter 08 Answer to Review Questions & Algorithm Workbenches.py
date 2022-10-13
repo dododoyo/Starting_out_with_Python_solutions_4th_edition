@@ -91,7 +91,7 @@ def have_https(some_string):
     return flag
 
 # 6
-# Instead of writing a code I wrote a function.
+# Instead I wrote a function.
 def T_converter(some_string):
     new_string = ''
     for i in some_string:

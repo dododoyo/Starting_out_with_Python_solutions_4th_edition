@@ -1,3 +1,5 @@
+#   ------- >>> Answer to Programming Exercises <<< ------- #
+
 # 1
 collector = 0
 for i in range(5):

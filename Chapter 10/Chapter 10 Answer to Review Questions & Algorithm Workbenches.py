@@ -35,7 +35,7 @@
 
 # 5
 # When the __init__ method executes the self parameter will reference the object 
-# that was created by the class
+# that was created by the class.
 
 # 6
 # In python you can hide an attribute from code outside by starting the name of the

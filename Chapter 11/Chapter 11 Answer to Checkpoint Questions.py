@@ -3,7 +3,7 @@
 
 # 2
 # When we say there is an "is a"  relation ship between two objects it means the specialized class has 
-# all of the attributes of the superclass.
+# all of the attributes of the superclass
 
 # 3
 # A subclass inherits all of it's superclass's attributes.
