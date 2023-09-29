@@ -1,6 +1,6 @@
 # Starting out with Python - 4<sup>th</sup> edition (SOLUTIONS)
 
-This repository contains solutions to the problems in the book `Starting Out with Python` by **Tony** **Gaddis**. Python is a high-level, interpreted programming language that is widely used for web development, scientific computing, data analysis, artificial intelligence, and more. The book is designed for beginners who have no prior programming experience and covers the basics of Python programming, including data types, control structures, functions, lists, tuples, dictionaries, file input/output, and more.
+This repository contains solutions to the problems in the book **Starting Out with Python by Tony Gaddis**. Python is a high-level, interpreted programming language that is widely used for web development, scientific computing, data analysis, artificial intelligence, and more. The book is designed for beginners who have no prior programming experience and covers the basics of Python programming, including data types, control structures, functions, lists, tuples, dictionaries, file input/output, and more.
 
 ## Table of Contents
 
